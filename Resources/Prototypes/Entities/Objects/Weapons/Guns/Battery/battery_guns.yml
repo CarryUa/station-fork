@@ -55,6 +55,9 @@
   - type: SurgeryTool
     endSound:
       path: /Audio/Weapons/Guns/Gunshots/laser.ogg
+  # PIRATE START
+  - type: CanTakeAim
+  # PIRATE END
 
 - type: entity
   id: BaseWeaponPowerCell
